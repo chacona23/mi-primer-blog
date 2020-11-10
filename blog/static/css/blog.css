@@ -52,17 +52,7 @@ h4 {
 .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
-    margin-right: 20px;
-}
-
-.post {
-    margin-bottom: 70px;
-}
-
-.post h1 a,
-.post h1 a:visited,
-.post h2 a,
-.post h2 a:visited {
-    color: #000000;
+    font-size: 16pt;
+    margin-right: 5px;
+    margin-left: 5px;
 }
